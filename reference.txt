@@ -34,7 +34,7 @@ snake deals 1 damage 🐍41
 dog gives health 🐶01
 elephant gives wisdom 🦣11
 moon gives strength 🌝21
-jar gives money ⚱31
+jar gives money 🏺31
 tea gives health🫖02
 idol gives wisdom 🗿12
 weapon gives strength🏹12
