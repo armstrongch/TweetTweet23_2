@@ -1,0 +1,41 @@
+a: current encounter array entry
+b:
+c: keycode mapping object
+d: draw function
+e: keydown event
+f:
+g:
+h: innerHTML for draw function
+i: stat array index
+j:
+k: keydown function
+l: location as an index of world array
+m:
+n:
+o: is the game over?
+p:
+q:
+r:
+s: stats array
+t:
+u: update function (following user input via keydown)
+v: stat value
+w: 
+x: world map as one long string
+y: world map split into chunks
+z:
+
+goblin deals 4 damage 👺44
+ghost deals 3 damage 👻43
+dino deals 3 damage 🦖43
+devil deals 2 damage 👿42
+crocodile deals 1 damage 🐊41
+snake deals 1 damage 🐍41
+dog gives health 🐶01
+elephant gives wisdom 🦣11
+moon gives strength 🌝21
+jar gives money ⚱31
+tea gives health🫖02
+idol gives wisdom 🗿12
+weapon gives strength🏹12
+key gives money 🗝32
